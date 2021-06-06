@@ -1,0 +1,9 @@
+E:\Development\CrispCSVLibrary\CSVLibrary\bin\Debug\netstandard2.0\CSVLibrary.deps.json
+E:\Development\CrispCSVLibrary\CSVLibrary\bin\Debug\netstandard2.0\CSVLibrary.dll
+E:\Development\CrispCSVLibrary\CSVLibrary\bin\Debug\netstandard2.0\CSVLibrary.pdb
+E:\Development\CrispCSVLibrary\CSVLibrary\obj\Debug\netstandard2.0\CSVLibrary.csprojAssemblyReference.cache
+E:\Development\CrispCSVLibrary\CSVLibrary\obj\Debug\netstandard2.0\CSVLibrary.AssemblyInfoInputs.cache
+E:\Development\CrispCSVLibrary\CSVLibrary\obj\Debug\netstandard2.0\CSVLibrary.AssemblyInfo.cs
+E:\Development\CrispCSVLibrary\CSVLibrary\obj\Debug\netstandard2.0\CSVLibrary.csproj.CoreCompileInputs.cache
+E:\Development\CrispCSVLibrary\CSVLibrary\obj\Debug\netstandard2.0\CSVLibrary.dll
+E:\Development\CrispCSVLibrary\CSVLibrary\obj\Debug\netstandard2.0\CSVLibrary.pdb

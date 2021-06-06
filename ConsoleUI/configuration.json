@@ -1,0 +1,44 @@
+{
+    "Columns" : [
+        {
+            "targetColumn": "OrderId",
+            "targetDataType" : "integer",
+            "newColumn" : false,
+            "sourceColumns": ["Order Number"]
+        },
+        {
+            "targetColumn": "OrderDate",
+            "targetDataType" : "datetime",
+            "newColumn" : true,
+            "sourceColumns": ["Year", "Month", "Day"],
+            "separator": "/"
+        },
+        {
+            "targetColumn": "ProductId",
+            "targetDataType" : "string",
+            "pattern" : "^[A-Z0-9]+$",
+            "newColumn" : false,
+            "sourceColumns": ["Product Number"]
+        },
+        {
+            "targetColumn": "ProductName",
+            "targetDataType" : "string",
+            "pattern" : "^[A-Z]+$",
+            "newColumn" : false,
+            "sourceColumns": ["Product Name"]
+        },
+        {
+            "targetColumn": "Quantity",
+            "targetDataType" : "big decimal",
+            "newColumn" : false,
+            "sourceColumns": ["Count"]
+        },
+        {
+            "targetColumn": "Unit",
+            "targetDataType" : "string",
+            "newColumn" : true,
+            "sourceColumns": [],
+            "defaultValue" : "kg"
+        }
+    ] 
+}
